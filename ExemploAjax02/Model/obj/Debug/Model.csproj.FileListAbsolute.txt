@@ -1,0 +1,12 @@
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\Model.dll.config
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\Model.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\Model.pdb
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\EntityFramework.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\EntityFramework.SqlServer.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\EntityFramework.xml
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\bin\Debug\EntityFramework.SqlServer.xml
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\obj\Debug\Model.csprojAssemblyReference.cache
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\obj\Debug\Model.csproj.CopyComplete
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\obj\Debug\Model.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\Model\obj\Debug\Model.pdb
