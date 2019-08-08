@@ -5,7 +5,9 @@
 
 <h2>Index</h2>
 
-<table class="table table-hover table-bordered table-striped table-dark text-light">
+<button data-toggle="modal" data-target="#modal-categoria" class="btn btn-primary">New Person</button>
+
+<table id="pessoa-tabela" class="table table-hover table-bordered table-striped text-dark ">
     <thead>
         <tr>
             <td>Código</td>
@@ -16,6 +18,7 @@
     </thead>
 </table>
 
+@RenderPage("CadastroModal.cshtml")
 @section js{
-    <script src="~/Scripts/Categoria/categoria.js"></script>
+    <script src="~/Scripts/Pessoa/pessoa.js"></script>
 }

@@ -73,3 +73,13 @@ T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\obj\Debug\View.cs
 T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\obj\Debug\View.csproj.CopyComplete
 T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\obj\Debug\View.dll
 T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\obj\Debug\View.pdb
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Model.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Repository.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\EntityFramework.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Model.pdb
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Model.dll.config
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Repository.pdb
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\Repository.dll.config
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\EntityFramework.xml
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\EntityFramework.SqlServer.dll
+T:\Documentos\GitHub\Entra21-Charpe-ASP.NET\ExemploAjax02\View\bin\EntityFramework.SqlServer.xml
