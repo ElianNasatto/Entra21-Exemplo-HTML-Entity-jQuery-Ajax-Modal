@@ -13,5 +13,22 @@
                 }
             }
         ]
-    });
+    })
+
+    $("#pessoa-botao-salvar").on("click", function () {
+        $nome = $("#pessoa-campo-nome").val();
+        $cpf = $("#pessoa-campo-cpf").val();
+
+        $.ajax({
+            url: "http://localhost:53131/pessoa/inserir",
+            method : "post",
+            data: {
+                Nome: $nome,
+                CPF: $cpf
+            },
+            success: function (data) { alert("deu boa") },
+            error: function (err) { alert("nao consegue") }
+        })
+    })
+
 });
