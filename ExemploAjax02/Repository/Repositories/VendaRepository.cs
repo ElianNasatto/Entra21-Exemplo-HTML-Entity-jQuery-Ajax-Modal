@@ -55,6 +55,7 @@ namespace Repository
 
         public int Inserir(Venda venda)
         {
+            venda.RegistroAtivo = true;
             contexto.Vendas.Add(venda);
             contexto.SaveChanges();
             return venda.Id;
