@@ -49,7 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Pessoa.cs" />
+    <Compile Include="Produto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Venda.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
