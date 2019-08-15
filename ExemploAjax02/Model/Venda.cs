@@ -18,7 +18,7 @@ namespace Model
         [Column("id_cliente")]
         public int IdCliente { get; set; }
 
-        [ForeignKey("idCliente")]
+        [ForeignKey("IdCliente")]
         public Pessoa Cliente { get; set; }
 
         [Column("descricao")]

@@ -51,6 +51,7 @@
     <Compile Include="Interfaces\IPessoaRepository.cs" />
     <Compile Include="Interfaces\IProdutoRepository.cs" />
     <Compile Include="Interfaces\IVendaRepository.cs" />
+    <Compile Include="Repositories\ProdutoRepository.cs" />
     <Compile Include="Repositories\PessoaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SistemaContext.cs" />

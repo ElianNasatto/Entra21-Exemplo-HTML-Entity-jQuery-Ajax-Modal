@@ -15,9 +15,17 @@
 
     <div class="form-group">
         <label for="venda-descricao">Descrição</label>
-        <textarea class="form-control" id="venda-descricao"></textarea>
+        <textarea class="form-control" name="descricao" id="venda-descricao"></textarea>
     </div>
 
     <button type="submit" class="btn btn-outline-success">Salvar</button>
 </form>
+@section css{
+    <link rel="stylesheet" href="~/Content/css/select2.css" />
+    }
 
+
+@section js{
+    <script src="~/Scripts/select2.js"></script>
+    <script src="~/Scripts/venda/venda-cadastro.js"></script>
+    }

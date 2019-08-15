@@ -80,7 +80,7 @@ namespace View.Controllers
 
             var resultado = new
             {
-                result = pessoasSelect2
+                results = pessoasSelect2
             };
 
             return Json(resultado, JsonRequestBehavior.AllowGet);

@@ -30,6 +30,6 @@ namespace Model
         public int IdVenda { get; set; }
 
         [ForeignKey("IdVenda")]
-        public int Venda { get; set; }
+        public Venda Venda { get; set; }
     }
 }

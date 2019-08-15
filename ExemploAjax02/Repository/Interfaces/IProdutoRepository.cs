@@ -9,11 +9,15 @@ namespace Repository.Interfaces
 {
     public interface IProdutoRepository
     {
+        List<Produto> ObterProdutosPeloIdVenda(int idVenda);
+
+        Produto ObterPeloId(int id);
+
         int Inserir(Produto produto);
 
-        List<Produto> ObterProdutoPeloIdVenda(int idVenda);
+        bool Alterar(Produto produto);
 
+        bool Apagar(int id);
 
-        
     }
 }
