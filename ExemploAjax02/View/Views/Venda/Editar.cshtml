@@ -6,7 +6,7 @@
 <div class="row">
     <div class="col-5">
         <form action="/venda/editar" method="post">
-            <input type="hidden" name="id" />
+            <input type="hidden" value="@ViewBag.Venda.Id" id="id" name="id" />
             <div class="form-group">
                 <label id="venda-cliente">Cliente</label>
                 <select class="form-control"
@@ -51,3 +51,7 @@
 </div>
 
 @RenderPage("ProdutoModal.cshtml")
+
+@section js{
+    <script src="~/Scripts/venda/venda-editar.js"></script>
+}

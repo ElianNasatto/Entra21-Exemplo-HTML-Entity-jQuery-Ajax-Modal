@@ -18,7 +18,7 @@ namespace View.Controllers
         }
 
         [HttpGet, Route("obtertodospeloidvenda")]
-        public JsonResult ObterPeloIdVenda(int idVenda)
+        public JsonResult ObterTodosPeloIdVenda(int idVenda)
         {
             var produto = repository.ObterProdutosPeloIdVenda(idVenda);
             var result = new { data = produto };
@@ -37,7 +37,7 @@ namespace View.Controllers
             }
             else
             {
-                return Json(JsonRequestBehavior.AllowGet);
+                return Json(produto,JsonRequestBehavior.AllowGet);
             }
         }
 

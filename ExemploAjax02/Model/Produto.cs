@@ -23,7 +23,7 @@ namespace Model
         [Column("valor")]
         public decimal Valor { get; set; }
 
-        [Column("registro}_ativo")]
+        [Column("registro_ativo")]
         public bool RegistroAtivo { get; set; }
 
         [Column("id_venda")]
